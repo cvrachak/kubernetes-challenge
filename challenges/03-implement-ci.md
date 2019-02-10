@@ -15,6 +15,8 @@ You are expected to implement a policy so that any code change submitted must go
 
 *NOTE:* Your team should be able to complete all challenges without needing to modify the API code. There is one exception where you may need to introduce a change to trigger an automated pipeline. Talk to your coach when you get to this step if you need help finding an easy change to make.
 
+#### Next Challenge: [Implement Continous Delivery](./04-implement-cd.md)
+
 ## References
 
 

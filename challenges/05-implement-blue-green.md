@@ -31,6 +31,8 @@ Demonstrate you can roll back to the previous version. Teams can rollback via pi
 
 To successfully complete the challenge, it is expected to implement the strategy for at least one API. You coach will give you a change to push through your pipeline to test your strategy.
 
+#### Next Challenge: [Implement Monitoring](./06-implement-monitoring.md)
+
 ## References
 
 - Blue/Green Deployment

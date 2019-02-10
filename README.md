@@ -28,6 +28,18 @@ The following diagram shows the overall architecture:
 ## Keep the lights up
 If one API becomes unavailable, your overall up-time will decrease and impact your score. There is no “maintenance window”, you will have to think of your strategy for a zero downtime deployment.
 
+## Challenges
+
+1. Establish a plan
+2. Deploy Infrastructure
+3. Implement Continous Integration
+4. Implement Continous Deployment
+5. Implement Blue/Green Deployment
+6. Implement Monitoring
+7. Design And Implement Rollout And Rollback Strategy
+
+#### Next Challenge: [Establish a plan](./challenges/01-establish-plan.md)
+
 -----------------
 ## Cheat Sheet
 

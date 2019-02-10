@@ -28,4 +28,6 @@ Be ready to answer the following questions:
 - How do you keep track of your work in progress?
 - How will you communicate amongst the team (Verbal, Teams, Slack, HipChat, Skype, etc)?
 
+#### Next Challenge: [Build Infrastructure](./02-deploy-infra.md)
+
 ## References

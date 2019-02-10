@@ -12,6 +12,8 @@ By using the tooling that you have selected previously, your challenge is to ref
 
 Your coach will provide you with an update to perform to your application. You will need to be able to demonstrate that you can reference the deployment of this feature with its corresponding work items. Your branch/pull request policy can be used to enforce workflow and gates between CI and CD activities.
 
+#### Next Challenge: [Implement Blue/Green Deployment](./05-implement-blue-green.md)
+
 ## References
 
 - Platform related content

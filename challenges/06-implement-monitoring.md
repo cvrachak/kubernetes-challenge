@@ -22,6 +22,8 @@ how to your coach the aggregated view of your application and infrastructure tha
 - The average response time over a period of 10 seconds for the 2 of the 4 microservices (Note Trips API you can monitor a single operation of the API).
 NEED TO ADD MORE Here //TODO
 
+#### Next Challenge: [Implement Rollout and Rollback Strategy](./07-implement-roll-out.md)
+
 ## References
 
 Setup Azure Monitor For Containers
