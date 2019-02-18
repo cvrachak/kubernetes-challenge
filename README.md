@@ -43,7 +43,7 @@ If one API becomes unavailable, your overall up-time will decrease and impact yo
 -----------------
 ## Cheat Sheet
 
-Need to add Info
+[Step-by-Step Guide](https://github.com/Azure/kubernetes-hackfest)
 
 
 -----------------

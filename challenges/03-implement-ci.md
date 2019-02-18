@@ -19,14 +19,14 @@ You are expected to implement a policy so that any code change submitted must go
 
 ## References
 
-Setup Azure DevOps
-Azure Container Registry
-Using ACR Build
-Using Hosted DevOps Agents
+[Setup Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-aks?view=azure-devops)
+
+[Using ACR Build](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tutorial-quick-task)
+
 
 
 ## Jenkins Related Content
 
-Setup Jenkins On Kubernetes
-Integrating Jenkins With Azure
-Jenkins CI Pipeline With Kubernetes
+[Setup Jenkins On Kubernetes](https://kubernetes.io/blog/2018/04/30/zero-downtime-deployment-kubernetes-jenkins/)
+
+[Integrating Jenkins With AKS](https://docs.microsoft.com/en-us/azure/aks/jenkins-continuous-deployment)

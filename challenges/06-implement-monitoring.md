@@ -26,7 +26,6 @@ NEED TO ADD MORE Here //TODO
 
 ## References
 
-Setup Azure Container Insights For AKS
-Monitoring Kubernetes With Azure Container Insights
-Setup Prometheus Operator
-Monitoring Kubernetes With Prometheus
+[Setup Azure Container Insights For AKS](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-onboard)
+
+[Setup Prometheus Operator](https://github.com/coreos/prometheus-operator)

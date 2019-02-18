@@ -20,13 +20,16 @@ You will need to document the MongoDB connection string to perform future challe
 
 ## References
 
-Create AKS Cluster
-Install Helm On AKS
+[Create AKS Cluster](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
+
+[Install Helm On AKS](https://docs.microsoft.com/en-us/azure/aks/kubernetes-helm)
+
 Setup Kubernetes Ingress Controller
 
-- Nginx
-- Ambassador
-- Traefik
+- [Nginx](https://docs.microsoft.com/en-us/azure/aks/ingress-tls)
+- [Ambassador](https://www.getambassador.io/user-guide/getting-started/)
+- [Traefik](https://docs.traefik.io/user-guide/kubernetes/)
 
-Create CosmosDB With MongoDB API
-Deploying MongoDB On Kubernetes
+[Create CosmosDB With MongoDB API](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-introduction)
+
+[Deploying MongoDB On Kubernetes](https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/)
