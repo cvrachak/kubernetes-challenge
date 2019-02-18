@@ -16,7 +16,7 @@ Using Azure Monitor For Containers or Promethus for this challenge will be the e
 
 ## Success Criteria
 
-how to your coach the aggregated view of your application and infrastructure that includes the following:
+Show to your coach the aggregated view of your application and infrastructure that includes the following:
 
 - Cluster monitoring that display the CPU Usage of each node.
 - The average response time over a period of 10 seconds for the 2 of the 4 microservices (Note Trips API you can monitor a single operation of the API).
@@ -26,5 +26,7 @@ NEED TO ADD MORE Here //TODO
 
 ## References
 
-Setup Azure Monitor For Containers
+Setup Azure Container Insights For AKS
+Monitoring Kubernetes With Azure Container Insights
 Setup Prometheus Operator
+Monitoring Kubernetes With Prometheus

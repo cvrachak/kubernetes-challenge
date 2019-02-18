@@ -23,7 +23,7 @@ Present to your coach the workflow and initial organization of the team that you
 
 Be ready to answer the following questions:
 
-- What aspects of DevOps are you implementing?
+- What aspects are you implementing?
 - How are you splitting the work amongst the team?
 - How do you keep track of your work in progress?
 - How will you communicate amongst the team (Verbal, Teams, Slack, HipChat, Skype, etc)?

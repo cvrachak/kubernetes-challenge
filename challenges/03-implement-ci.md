@@ -19,6 +19,14 @@ You are expected to implement a policy so that any code change submitted must go
 
 ## References
 
+Setup Azure DevOps
+Azure Container Registry
+Using ACR Build
+Using Hosted DevOps Agents
+
 
 ## Jenkins Related Content
 
+Setup Jenkins On Kubernetes
+Integrating Jenkins With Azure
+Jenkins CI Pipeline With Kubernetes
