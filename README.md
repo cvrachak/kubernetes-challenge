@@ -32,8 +32,8 @@ If one API becomes unavailable, your overall up-time will decrease and impact yo
 
 1. Establish a plan
 2. Deploy Infrastructure
-3. Implement Continous Integration
-4. Implement Continous Deployment
+3. Implement Continuous Integration
+4. Implement Continuous Deployment
 5. Implement Blue/Green Deployment
 6. Implement Monitoring
 7. Design And Implement Rollout And Rollback Strategy
