@@ -6,6 +6,7 @@ In this challenege you'll need to deploy a Kubernetes cluster with AKS, setup He
 To complete future challenges you'll need to setup the following infrastructure for your application.
 
 - 3 Node AKS Cluster
+- Azure Container Registry
 - Install Helm
 - Setup Ingress Controller with Helm
 - Create a CosmosDB(MongoDB API) or deploy MongoDB to your Kubernetes cluster.
@@ -23,6 +24,8 @@ You will need to document the MongoDB connection string to perform future challe
 [Create AKS Cluster](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
 
 [Install Helm On AKS](https://docs.microsoft.com/en-us/azure/aks/kubernetes-helm)
+
+[Create Azure Container Registry]()
 
 Setup Kubernetes Ingress Controller
 
