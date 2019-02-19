@@ -1,4 +1,4 @@
-# Implement Continous Deployment
+# Implement Continuous Deployment
 
 After Continuous Integration has completed successfully, you should deploy automatically the updated version of the API to your cluster.
 

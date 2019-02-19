@@ -1,4 +1,4 @@
-# Implement Continous Integration (CI)
+# Implement Continuous Integration (CI)
 
 ## Challenge
 Select the tooling that best fits your team’s skills or learning plans, and implement the part of your pipeline that builds your application and pushes the container image to a registry. You are not expected to deploy any resources to the AKS cluster at this time in the challenge.
