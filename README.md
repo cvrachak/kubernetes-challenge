@@ -1,5 +1,5 @@
 # Kubernetes Challenge
-During this Kubernetes Challenege your team will work on the implementation of implementing Kubernetes, monitoring, and delivering services with zero downtime deployments.
+During this Kubernetes Challenge your team will work on the implementation of implementing Kubernetes, monitoring, and delivering services with zero downtime deployments.
 
 Any resemblance to actual scenarios, issues, or pain points that you are facing is not purely coincidental. The definitions of the challenges that will be presented to you during this event are inspired from real life.
 
